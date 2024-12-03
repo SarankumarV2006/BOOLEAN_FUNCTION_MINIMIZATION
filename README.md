@@ -19,9 +19,10 @@ Hardware – PCs, Cyclone II , USB flasher
 **Logic Diagram**
 
 
-FUNCTION 1
+
+
 ![Screenshot 2024-12-03 212405](https://github.com/user-attachments/assets/e9372be0-5809-4826-b13d-27aae1697aa5)
-FUNCTION 2
+
 ![Screenshot 2024-12-03 214355](https://github.com/user-attachments/assets/f9a0dbb5-1508-4dfb-9cbe-18e306362867)
 
 
@@ -45,9 +46,9 @@ FUNCTION 2
 
 Developed by:Sarankumar.V   RegisterNumber: 24010668
 
-FUNCTION 1
+
 ![Screenshot 2024-12-03 212825](https://github.com/user-attachments/assets/76d62301-4960-4730-a9f2-1dbde4656905)
-FUNCTION 2
+
 ![Screenshot 2024-12-03 214630](https://github.com/user-attachments/assets/ea22618d-b36c-44aa-8f9c-4780797fc8f8)
 
 **RTL realization**
